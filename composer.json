@@ -1,0 +1,14 @@
+{
+    "name": "lordhexa/empire",
+    "description": "Tests fuer Empire GmbH",
+    "type": "Project",
+    "require": {
+        "voku/simple-mysqli": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "Ronny",
+            "email": "lordhexa@gmx.de"
+        }
+    ]
+}
